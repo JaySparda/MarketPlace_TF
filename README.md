@@ -33,7 +33,7 @@ To ensure data integrity and secure access, the following measures are implement
 * **Frontend:** [React](https://reactjs.org/) + [Vite](https://vitejs.dev/) (for a lightning-fast development experience)
 * **Backend:** [Node.js](https://nodejs.org/) & [Express](https://expressjs.com/)
 * **Database:** [MongoDB](https://www.mongodb.com/) (NoSQL)
-* **Styling:** (Add your styling tool here, e.g., Tailwind CSS or CSS Modules)
+* **Styling:** Material UI,
 
 ---
 
