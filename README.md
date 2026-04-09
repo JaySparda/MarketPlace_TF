@@ -61,8 +61,8 @@ To ensure data integrity and secure access, the following measures are implement
     Create a `.env` file in your server directory and include:
     ```env
     PORT=5000
-    MONGO_URI=your_mongodb_connection_string
-    JWT_SECRET=your_secret_key
+    MONGO_URI="mongodb://mongo:EPgiwLKYaQZDBisJRuRcdHWqAlUKiYbL@hopper.proxy.rlwy.net:52540"
+    JWT_SECRET=helloworld
     ```
 
 5.  **Run the Application:**
