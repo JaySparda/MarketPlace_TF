@@ -41,7 +41,7 @@ To ensure data integrity and secure access, the following measures are implement
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/mann-co.git](https://github.com/your-username/mann-co.git)
+    git clone https://github.com/JaySparda/MarketPlace_TF.git
     cd mann-co
     ```
 
